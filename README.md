@@ -1,5 +1,7 @@
 #answer
 
+[![Join the chat at https://gitter.im/CommBank/answer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CommBank/answer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/CommBank/answer.svg?branch=master)](https://travis-ci.org/CommBank/answer)
 
 answer is a functional wrapper for [ScalikeJDBC](http://scalikejdbc.org). The 
